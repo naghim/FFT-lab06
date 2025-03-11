@@ -46,7 +46,7 @@ A következő sémát lehet használni a projekt elkészítésére. A dokumentá
       - Kérdőív
       - Mélyinterjú, stb.
   - Javított prototípus készítése:
-    - Bármilyen designer software, ájanlott: [Figma](https://figma.com)
+    - Bármilyen designer software, ajánlott: [Figma](https://figma.com)
 - **Végső következtetések**
   - Személyes tapasztalat megosztása
   - További fejlesztési lehetőségek
