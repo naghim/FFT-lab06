@@ -1,63 +1,6 @@
 # Labor 06
 
-# FFT projekt
-
-A projekt célja az, hogy alkalmazzuk, gyakoroljuk a tanult felhasználói felületek tervezési fázisait és fogalmait. Minden tervezés az emberből, a felhasználóból indul ki. A felhasználói felületek tervezési folyamatának tartalmaznia kell a következő fázisokat:
-
-- Felhasználók elemzése:
-  - Meg kell vizsgálni, hogy a felhasználók milyen feladatokat végeznek, milyen munkakörnyezetben dolgoznak, milyen egyéb rendszereket használnak, munkájuk során. Melyek az igények, amelyeket a felület le kell fedjen, „fájdalompontokat”, megkötéseket melyeket figyelembe kell vegyünk.
-- Prototípus-készítés:
-  - A felhasználói felület terve alapján prototípust kell készíteni. A prototípus részletességéről, valósághűségéről (ang. fidelity) a csapat dönt az igények, célok figyelembevételével.
-- Felületek értékelése:
-  - A prototípus formálisabb értékelése. A felhasználók interfészhasználat közben szerzett aktuális tapasztalatait gyűjtjük össze.
-
-A végső dokumentáció a bejárt **tervezési folyamatot** kell ismertesse fázisonként, és bemutassa az elkészített prototípust (prototípusokat), kiemelve és részletezve a tervezési döntéseket (mi miért lett úgy tervezve, ahogy az a prototípusban szerepel).
-
-## Projekt készítésének lépései
-
-A következő sémát lehet használni a projekt elkészítésére. A dokumentáció is követheti az alábbi alpontokat.
-
-- **Ötlet**
-  - Az ötlet pontosabb kifejtése
-    - Miről szól a projekt?
-    - Mi a mögöttes motiváció?
-    - Miért fontos/hasznos ezt az alkalmazást megvalósítani?
-    - Milyen problémára ad megoldást?
-- **Előzetes kutatás**
-  - Jelenlegi megoldások (piackutatás)
-    - Mik az erősségük / hátrányuk?
-    - Mivel lehetne kibővíteni őket?
-    - Milyen új ötlettel lehetne előállni?
-  - Felhasználók véleményének begyűjtése a jelenlegi megoldásokról
-    - Kérdőívek
-    - Mélyinterjú
-    - Potenciális fájdalompontok azonosítása
-  - Következtetések levonása
-    - Milyen konklúziók fogalmazódtak meg a piackutatás során?
-    - Hogyan lehetne a terméket vonzóvá tenni a felhasználó számára?
-- **Tervezési fázis**
-  - A saját ötlet részletes bemutatása
-    - Use-case diagram készítése
-  - Prototípusok készítése
-    - Wireframe-ek papíron, Figmában, stb.
-    - Legalább két design (két prototípus verzió)
-  - Prototípusok kiértékelése
-    - Felhasználók véleményének begyűjtése és kiértékelése
-      - Kérdőív
-      - Mélyinterjú, stb.
-  - Javított prototípus készítése:
-    - Bármilyen designer software, ajánlott: [Figma](https://figma.com)
-- **Végső következtetések**
-  - Személyes tapasztalat megosztása
-  - További fejlesztési lehetőségek
-
-A végső ötlet tényleges implementálása nem szükséges, a hangsúly a tervezési folyamatokon van!
-
-## A projekt bemutatása
-
-A dokumentációt fel kell tölteni ehhez a repositoryhoz az utolsó előtti hét vasárnapjáig. A projektet egy PowerPoint bemutató keretén belül az utolsó labor órán kell bemutatni. A projektet lehet párban készíteni. Egy csapatban maximum két ember lehet.
-
-# Style Sheetek
+## Style Sheetek
 
 A Qt Style Sheets a CSS-hez (_Cascading Style Sheets_) hasonló szintaxist használ, néhány módosítással, hogy illeszkedjen a Qt widget-hierarchiájához és tulajdonságaihoz:
 
