@@ -32,6 +32,7 @@ Makefile*
 build
 *.qm
 *.prl
+**/build/
 
 # Qt unit tests
 target_wrapper.*
@@ -53,3 +54,10 @@ compile_commands.json
 *creator.user*
 
 *_qmlcache.qrc
+
+# IDEs and OS files
+.idea/
+**/.idea/
+.vscode/
+**/.vscode/
+.DS_Store
